@@ -66,10 +66,12 @@ This is a currency swap application where users can exchange two or more currenc
 ## How to Run
 
 - Clone the repository:
+  
 ```bash
    git clone https://github.com/your-username/frontend-gluwa.git
    npm start
    npm run dev
+```
 
 ## References
 
@@ -81,9 +83,3 @@ The following external resources were used in this project:
 ## License
 
 This project is licensed under the MIT License. Please refer to the [LICENSE](LICENSE) file for more details.
-
-
-    Clone the repository:
-    e.g.) cd Your Desktop/frontend-gluwa
-    npm start
-    npm run dev

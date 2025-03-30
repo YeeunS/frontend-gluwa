@@ -65,6 +65,24 @@ This is a currency swap application where users can exchange two or more currenc
 
 ## How to Run
 
+- Clone the repository:
+```bash
+   git clone https://github.com/your-username/frontend-gluwa.git
+   npm start
+   npm run dev
+
+## References
+
+The following external resources were used in this project:
+
+1. [React Docs](https://reactjs.org/docs/getting-started.html) - Official documentation for React for basic usage.
+2. [MDN Web Docs](https://developer.mozilla.org/en-US/) - Documentation for JavaScript and web technologies.
+
+## License
+
+This project is licensed under the MIT License. Please refer to the [LICENSE](LICENSE) file for more details.
+
+
     Clone the repository:
     e.g.) cd Your Desktop/frontend-gluwa
     npm start

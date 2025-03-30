@@ -62,3 +62,10 @@ This is a currency swap application where users can exchange two or more currenc
 
 - A modern browser (e.g., Chrome, Firefox, Edge).
 - Internet connection to fetch data from the APIs.
+
+## How to Run
+
+    Clone the repository:
+    e.g.) cd Your Desktop/frontend-gluwa
+    npm start
+    npm run dev
